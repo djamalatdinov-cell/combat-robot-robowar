@@ -60,7 +60,7 @@ Approximate size: 64 × 28 × 65 mm.
 **Root cause.**
 1. The motor driver was still at its **default maximum speed of 8,000 rpm**. We had not set a lower limit for the loaded weapon.
 2. We assumed the motor would reach that speed with the **8–10 kg weapon attached**. Under that load it could not, so it drew far more current than expected.
-3. The locally sourced **wires were undersized for that current** and overheated.
+3. The locally sourced **12 AWG wires** (the plan called for 4 AWG and 6 AWG) **were undersized for that current** and overheated. These are the wires shown under Key components.
 
 **What we did.** We rebuilt and rewired almost all of the electronics overnight and reached the arena on time.
 
@@ -83,8 +83,8 @@ A selection of the main parts we used; not a complete list.
 |---|---|
 | <img src="images/weapon-motor-flipsky-80100.jpg" width="220"> | **Weapon motor:** Flipsky 80100 brushless outrunner |
 | <img src="images/drive-motor-48v-dc.jpg" width="220"> | **Drive motor:** 48 V DC motor |
-| <img src="images/fardriver-controller.jpg" width="220"> | **Motor controller:** FarDriver |
-| <img src="images/ebike-controller-48v.jpg" width="220"> | **Motor controller:** 36/48 V, 350 W e-bike controller (local substitute) |
+| <img src="images/fardriver-controller.jpg" width="220"> | **Weapon motor controller:** FarDriver |
+| <img src="images/ebike-controller-48v.jpg" width="220"> | **Drive motor controller:** 36/48 V, 350 W e-bike controller (local substitute) |
 | <img src="images/thumb-throttle.jpg" width="220"> | **Throttle:** e-bike thumb throttle |
 | <img src="images/radio-transmitter.jpg" width="220"> | **Radio transmitter:** FlySky FS-i6 |
 | <img src="images/relay-module-5v.jpg" width="220"> | **Relay module:** 1-channel, 5 V |
