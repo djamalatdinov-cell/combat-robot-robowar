@@ -18,15 +18,15 @@ A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan Un
 
 ## My role
 
-I worked on the **electronics** together with one teammate: choosing components, wiring the motors and controllers, and setting up the radio control.
+Throughout the two-week build I designed and assembled the **electronics** together with one teammate: choosing components, wiring the motors and controllers, and setting up the radio control.
 
 - When the components ordered through the university did not arrive, we **sourced alternatives available in Uzbekistan**, including e-bike motor controllers and throttles.
-- The day before the competition I helped diagnose and rebuild the electronics after a weapon-system failure (see below).
+- After the weapon-system fire the day before the competition (see below), we diagnosed the cause and **rebuilt the electronics overnight**.
 
 ## Credits
 
-- **CAD model:** designed in SolidWorks by an experienced lab engineer, to the dimensions of the components we selected.
-- **Frame fabrication:** laser cutting and welding by a lab engineer, who taught us the process as we built.
+- **CAD model:** full-robot SolidWorks assembly by an experienced lab engineer, built around the components we selected.
+- **Frame fabrication:** laser cutting and welding by a lab engineer, who taught us the process while we built the electronics.
 - **Electronics, wiring, radio control:** student team.
 - **Supervisor:** a faculty member who supported the team throughout the build.
 
