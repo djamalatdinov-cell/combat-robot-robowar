@@ -11,7 +11,8 @@ A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan Un
 | **Weight** | ~58 kg (limit 70 kg) |
 | **Weapon** | Vertical spinning disc (~8–10 kg), brushless outrunner motor, belt drive |
 | **Drive** | Rear-wheel differential steering; front wheels free-rolling |
-| **Control** | Futaba 2.4 GHz radio; servos operate e-bike throttles through 3D-printed mounts; relays; weapon on an on/off switch |
+| **Power** | 24 V 15 Ah battery packs, connected in series to supply 36 V |
+| **Control** | FlySky FS-i6 2.4 GHz radio; servos operate e-bike throttles through 3D-printed mounts; relays; weapon on an on/off switch |
 | **Build time** | 2 weeks |
 | **Team** | 4 students, a faculty supervisor, 2 lab engineers |
 | **Result** | Lost our fight on points after a weapon-to-weapon hit disabled both spinners |
@@ -25,7 +26,7 @@ Throughout the two-week build I designed and assembled the **electronics** toget
 
 ## My CAD part: 3D-printed throttle mount for radio control
 
-The drive used e-bike motor controllers, which expect a hand-operated thumb throttle, not a radio signal. To drive the robot from the Futaba remote, I designed a mount in SolidWorks and 3D-printed it: the thumb throttle clamps onto the printed cylinder in place of a handlebar, the base bolts down, and a servo moves the throttle on command from the radio receiver.
+The drive used e-bike motor controllers, which expect a hand-operated thumb throttle, not a radio signal. To drive the robot from the FlySky remote, I designed a mount in SolidWorks and 3D-printed it: the thumb throttle clamps onto the printed cylinder in place of a handlebar, the base bolts down, and a servo moves the throttle on command from the radio receiver.
 
 **Steering:** differential, on the two rear wheels. Forward and reverse drive both wheels together; to turn right, the right wheel is held still while the left one drives (and the reverse to turn left). The front wheels roll freely.
 
@@ -103,7 +104,7 @@ The design called for a belt-driven weapon and dedicated combat-robot electronic
 | Drive controller | Cytron MDDS30, 80 A |
 | Drive battery | 6S 22.2 V 20,000 mAh LiPo, 30C |
 | Wiring | 4 AWG and 6 AWG cable; XT90, XT150 and AS150 anti-spark connectors |
-| Radio | Futaba 6EX 2.4 GHz |
+| Radio | Futaba 6EX 2.4 GHz (replaced by a FlySky FS-i6) |
 | Armor / shock absorption | UHMW PE1000 sheet, 20 mm |
 | Wheels | Polyurethane, 150 mm diameter, 50 mm wide |
 
