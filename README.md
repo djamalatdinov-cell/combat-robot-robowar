@@ -31,7 +31,10 @@ I designed this part in SolidWorks and 3D-printed it. It mounts on a servo so th
   <img src="images/servo-bracket-cad.png" width="40%" alt="SolidWorks model of the servo bracket">
 </p>
 
-Source file: [`servo-bracket.SLDPRT`](https://github.com/djamalatdinov-cell/combat-robot-robowar/raw/main/cad/servo-bracket.SLDPRT) (SolidWorks part, click to download; open in SolidWorks or eDrawings).
+Approximate size: 64 × 28 × 65 mm.
+
+- **3D view in the browser:** [`cad/servo-bracket.stl`](cad/servo-bracket.stl) (click and rotate the model)
+- **SolidWorks source:** [`servo-bracket.SLDPRT`](https://github.com/djamalatdinov-cell/combat-robot-robowar/raw/main/cad/servo-bracket.SLDPRT) (download)
 
 ## Credits
 
