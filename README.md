@@ -3,8 +3,7 @@
 A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan University team for the **Kelajak Muhandislari** engineering competition (RoboWar category, 70 kg weight limit).
 
 <p align="center">
-  <img src="images/robot-vs-opponent.jpg" width="48%" alt="Our robot (blue) next to an opponent in the arena">
-  <img src="images/arena.jpg" width="48%" alt="Robots in the arena">
+  <img src="images/robot-vs-opponent.jpg" width="60%" alt="Our robot (blue) next to an opponent">
 </p>
 
 | | |
@@ -22,7 +21,6 @@ A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan Un
 I worked on the **electronics** together with one teammate: choosing components, wiring the motors and controllers, and setting up the radio control.
 
 - When the components ordered through the university did not arrive, we **sourced alternatives available in Uzbekistan**, including e-bike motor controllers and throttles.
-- During design I argued for a **low-profile chassis** to keep the center of mass low, which makes the robot harder to flip.
 - The day before the competition I helped diagnose and rebuild the electronics after a weapon-system failure (see below).
 
 ## Credits
