@@ -74,7 +74,9 @@ Approximate size: 64 × 28 × 65 mm.
   <br><em>Weapon spin-up test before the armor was fitted.</em>
 </p>
 
-## Components (as built)
+## Key components (photos)
+
+A selection of the main parts we used; not a complete list.
 
 | | |
 |---|---|
