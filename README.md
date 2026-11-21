@@ -85,6 +85,9 @@ A selection of the main parts we used; not a complete list.
 | <img src="images/fardriver-controller.jpg" width="220"> | **Motor controller:** FarDriver |
 | <img src="images/ebike-controller-48v.jpg" width="220"> | **Motor controller:** 36/48 V, 350 W e-bike controller (local substitute) |
 | <img src="images/thumb-throttle.jpg" width="220"> | **Throttle:** e-bike thumb throttle |
+| <img src="images/radio-transmitter.jpg" width="220"> | **Radio transmitter:** FlySky FS-i6 |
+| <img src="images/relay-module-5v.jpg" width="220"> | **Relay module:** 1-channel, 5 V |
+| <img src="images/wiring-12awg-xt60.jpg" width="220"> | **Wiring:** 12 AWG silicone cable (200 °C rated) with XT60 connectors |
 
 ### Original plan (bill of materials submitted to the university)
 
