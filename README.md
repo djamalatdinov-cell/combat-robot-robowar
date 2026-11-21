@@ -27,7 +27,7 @@ Throughout the two-week build I designed and assembled the **electronics** toget
 
 The drive used e-bike motor controllers, which expect a hand-operated thumb throttle, not a radio signal. To drive the robot from the Futaba remote, I designed a mount in SolidWorks and 3D-printed it: the thumb throttle clamps onto the printed cylinder in place of a handlebar, the base bolts down, and a servo moves the throttle on command from the radio receiver.
 
-**Steering:** differential, on the two rear wheels. Forward and reverse drive both wheels together; to turn, one wheel is held still while the other drives. The front wheels roll freely.
+**Steering:** differential, on the two rear wheels. Forward and reverse drive both wheels together; to turn right, the right wheel is held still while the left one drives (and the reverse to turn left). The front wheels roll freely.
 
 <p align="center">
   <img src="images/servo-bracket-cad.png" width="30%" alt="SolidWorks model of the throttle mount">
