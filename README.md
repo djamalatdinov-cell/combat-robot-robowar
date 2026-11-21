@@ -31,7 +31,7 @@ I designed this part in SolidWorks and 3D-printed it. It mounts on a servo so th
   <img src="images/servo-bracket-cad.png" width="40%" alt="SolidWorks model of the servo bracket">
 </p>
 
-Source file: [`cad/servo-bracket.SLDPRT`](cad/servo-bracket.SLDPRT) (SolidWorks part).
+Source file: [`servo-bracket.SLDPRT`](https://github.com/djamalatdinov-cell/combat-robot-robowar/raw/main/cad/servo-bracket.SLDPRT) (SolidWorks part, click to download; open in SolidWorks or eDrawings).
 
 ## Credits
 
