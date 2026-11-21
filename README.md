@@ -10,8 +10,8 @@ A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan Un
 |---|---|
 | **Weight** | ~58 kg (limit 70 kg) |
 | **Weapon** | Vertical spinning disc (~8–10 kg), brushless outrunner motor, belt drive |
-| **Drive** | DC motor on the rear wheels; front wheels free-rolling |
-| **Control** | Futaba 2.4 GHz radio, servos and relays; weapon on an on/off switch |
+| **Drive** | Rear-wheel differential steering; front wheels free-rolling |
+| **Control** | Futaba 2.4 GHz radio; servos operate e-bike throttles through 3D-printed mounts; relays; weapon on an on/off switch |
 | **Build time** | 2 weeks |
 | **Team** | 4 students, a faculty supervisor, 2 lab engineers |
 | **Result** | Lost our fight on points after a weapon-to-weapon hit disabled both spinners |
@@ -23,12 +23,16 @@ Throughout the two-week build I designed and assembled the **electronics** toget
 - When the components ordered through the university did not arrive, we **sourced alternatives available in Uzbekistan**, including e-bike motor controllers and throttles.
 - After the weapon-system fire the day before the competition (see below), we diagnosed the cause and **rebuilt the electronics overnight**.
 
-## My CAD part: 3D-printed servo bracket
+## My CAD part: 3D-printed throttle mount for radio control
 
-I designed this part in SolidWorks and 3D-printed it. It mounts on a servo so the Futaba radio can control the drive of the rear wheels.
+The drive used e-bike motor controllers, which expect a hand-operated thumb throttle, not a radio signal. To drive the robot from the Futaba remote, I designed a mount in SolidWorks and 3D-printed it: the thumb throttle clamps onto the printed cylinder in place of a handlebar, the base bolts down, and a servo moves the throttle on command from the radio receiver.
+
+**Steering:** differential, on the two rear wheels. Forward and reverse drive both wheels together; to turn, one wheel is held still while the other drives. The front wheels roll freely.
 
 <p align="center">
-  <img src="images/servo-bracket-cad.png" width="40%" alt="SolidWorks model of the servo bracket">
+  <img src="images/servo-bracket-cad.png" width="30%" alt="SolidWorks model of the throttle mount">
+  <img src="images/servo-bracket-printed-side.jpg" width="30%" alt="Printed mount with the thumb throttle attached">
+  <img src="images/servo-bracket-in-throttle.jpg" width="30%" alt="Printed mount seated inside the throttle clamp">
 </p>
 
 Approximate size: 64 × 28 × 65 mm.
@@ -40,7 +44,7 @@ Approximate size: 64 × 28 × 65 mm.
 
 - **CAD model:** full-robot SolidWorks assembly by an experienced lab engineer, built around the components we selected.
 - **Frame fabrication:** laser cutting and welding by a lab engineer, who taught us the process while we built the electronics.
-- **Electronics, wiring, radio control, servo bracket:** student team.
+- **Electronics, wiring, radio control:** student team. **Throttle mount:** designed and printed by me.
 - **Supervisor:** a faculty member who supported the team throughout the build.
 
 <p align="center">
