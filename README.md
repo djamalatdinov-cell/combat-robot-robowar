@@ -11,7 +11,7 @@ A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan Un
 | **Weight** | ~58 kg (limit 70 kg) |
 | **Weapon** | Vertical spinning disc (~8–10 kg), brushless outrunner motor, belt drive |
 | **Drive** | Rear-wheel differential steering; front wheels free-rolling |
-| **Power** | 24 V 15 Ah battery packs, connected in series to supply 36 V |
+| **Power** | LiPo batteries, 24 V, 15 Ah |
 | **Control** | FlySky FS-i6 2.4 GHz radio; servos operate e-bike throttles through 3D-printed mounts; relays; weapon on an on/off switch |
 | **Build time** | 2 weeks |
 | **Team** | 4 students, a faculty supervisor, 2 lab engineers |
@@ -104,7 +104,7 @@ The design called for a belt-driven weapon and dedicated combat-robot electronic
 | Drive controller | Cytron MDDS30, 80 A |
 | Drive battery | 6S 22.2 V 20,000 mAh LiPo, 30C |
 | Wiring | 4 AWG and 6 AWG cable; XT90, XT150 and AS150 anti-spark connectors |
-| Radio | Futaba 6EX 2.4 GHz (replaced by a FlySky FS-i6) |
+| Radio | FlySky FS-i6 2.4 GHz |
 | Armor / shock absorption | UHMW PE1000 sheet, 20 mm |
 | Wheels | Polyurethane, 150 mm diameter, 50 mm wide |
 
