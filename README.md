@@ -23,11 +23,21 @@ Throughout the two-week build I designed and assembled the **electronics** toget
 - When the components ordered through the university did not arrive, we **sourced alternatives available in Uzbekistan**, including e-bike motor controllers and throttles.
 - After the weapon-system fire the day before the competition (see below), we diagnosed the cause and **rebuilt the electronics overnight**.
 
+## My CAD part: 3D-printed servo bracket
+
+I designed this part in SolidWorks and 3D-printed it. It mounts on a servo so the Futaba radio can control the drive of the rear wheels.
+
+<p align="center">
+  <img src="images/servo-bracket-cad.png" width="40%" alt="SolidWorks model of the servo bracket">
+</p>
+
+Source file: [`cad/servo-bracket.SLDPRT`](cad/servo-bracket.SLDPRT) (SolidWorks part).
+
 ## Credits
 
 - **CAD model:** full-robot SolidWorks assembly by an experienced lab engineer, built around the components we selected.
 - **Frame fabrication:** laser cutting and welding by a lab engineer, who taught us the process while we built the electronics.
-- **Electronics, wiring, radio control:** student team.
+- **Electronics, wiring, radio control, servo bracket:** student team.
 - **Supervisor:** a faculty member who supported the team throughout the build.
 
 <p align="center">
