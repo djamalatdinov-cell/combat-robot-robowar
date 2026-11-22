@@ -15,7 +15,7 @@ A 58 kg spinner-and-wedge combat robot built in two weeks by a New Uzbekistan Un
 | **Control** | FlySky FS-i6 2.4 GHz radio; servos operate e-bike throttles through 3D-printed mounts; relays; weapon on an on/off switch |
 | **Build time** | 2 weeks |
 | **Team** | 4 students, a faculty supervisor, 2 lab engineers |
-| **Result** | Lost our fight on points after a weapon-to-weapon hit disabled both spinners |
+| **Result** | Lost our first fight on points: after a weapon-to-weapon hit, our motor driver failed and the robot stopped moving |
 
 ## My role
 
